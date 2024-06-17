@@ -2,15 +2,11 @@
 
 Coder || Developer || Engineer
 
-👋 Hello, I’m a motivated frontend developer with a strong foundation in HTML, CSS, JavaScript, Typescript, React.js, Next.js, Prisma and MERN, eager to contribute my skills and learn from experienced professionals in the field.
+👨‍💻 Hi there! I'm Lucky Goyal, a passionate software developer specializing in web development with expertise in JavaScript, the MERN stack, and SQL. I’m dedicated to continuous learning and hands-on projects, mastering modern web development technologies.
 
-🌱 Continuously expanding my skill set through self-directed learning and online resources, with a focus on mastering modern frontend frameworks such as React.js and Next.js.
+📚I pride myself on writing clean, optimized code to create seamless user experiences and build visually appealing, functional web applications. I thrive on challenging projects that push me to grow and innovate.
 
-💻 Passionate about clean code, responsive design, and accessibility standards, I strive to create intuitive interfaces that seamlessly blend aesthetics with functionality.
-
-💞️ I’m looking to collaborate on projects that challenge me and allow me to apply my skills while learning from experienced developers. Whether it's a small website or a complex web application, count me in!
-
-🤝 Open to networking with fellow developers, industry professionals, and mentors to exchange insights, share ideas, and explore potential collaborations.
+🤝I enjoy collaborating with fellow developers, industry experts, and mentors to exchange insights and ideas. Let's connect and create something remarkable together!
 
 <!--
 **LuckyGoyal039/LuckyGoyal039** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
