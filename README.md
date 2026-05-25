@@ -1,24 +1,12 @@
-### Hi there 👋
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/LuckyGoyal039/LuckyGoyal039/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/LuckyGoyal039/LuckyGoyal039/output/github-contribution-grid-snake.svg" />
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/LuckyGoyal039/LuckyGoyal039/output/github-contribution-grid-snake.svg" />
+</picture>
 
-Coder || Developer || Engineer
+---
+### Hi there, I'm Lucky Goyal 👋
 
-👨‍💻 Hi there! I'm Lucky Goyal, a passionate software developer specializing in web development with expertise in JavaScript, the MERN stack, and SQL. I’m dedicated to continuous learning and hands-on projects, mastering modern web development technologies.
+**Full-Stack Developer** · MERN & Next.js · Building for the web
 
-📚I pride myself on writing clean, optimized code to create seamless user experiences and build visually appealing, functional web applications. I thrive on challenging projects that push me to grow and innovate.
 
-🤝I enjoy collaborating with fellow developers, industry experts, and mentors to exchange insights and ideas. Let's connect and create something remarkable together!
-
-<!--
-**LuckyGoyal039/LuckyGoyal039** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
